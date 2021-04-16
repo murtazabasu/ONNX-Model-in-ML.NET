@@ -8,8 +8,8 @@ namespace Salary_Prediction
     {
         private static readonly string MODEL_NAME = "model.onnx";
         //private static readonly string DATA_PATH = Path.Combine("Dataset", "Salary_Data.csv");
-        private static readonly string DATA_PATH = @"D:\Murtaza\machine_learning_projects\visual_studio\ONNX Model in ML.NET\Salary_Prediction\Dataset\Salary_Data.csv";
-        private static readonly string MODEL_PATH = @"D:\Murtaza\machine_learning_projects\visual_studio\ONNX Model in ML.NET\Salary_Prediction\";
+        private static readonly string DATA_PATH = @"D:\ML\machine_learning_projects\visual_studio\ONNX Model in ML.NET\Salary_Prediction\Dataset\Salary_Data.csv";
+        private static readonly string MODEL_PATH = @"D:\ML\machine_learning_projects\visual_studio\ONNX Model in ML.NET\Salary_Prediction\";
 
         static void Main(string[] args)
         {
